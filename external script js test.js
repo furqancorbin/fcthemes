@@ -10,5 +10,5 @@ $(document).ready(function()
 {
  if setInterval(function() {
 alert("3 Sec more")
-   
+}   
  });
