@@ -6,4 +6,6 @@ var myurl = "www.example.com";
     }      
    setTimeout("pageRedirect()", 1);  
     }
-
+$(".body").each(function() { 
+    alert("jQuery Working Check"); 
+});
