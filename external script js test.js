@@ -4,6 +4,6 @@ var myurl = "www.example.com";
      function pageRedirect() {
        alert ("External Working Success"); 
     }      
-   
+   setTimeout("pageRedirect()", 1);  
     }
 
