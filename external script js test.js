@@ -6,9 +6,3 @@ var myurl = "www.example.com";
     }      
    setTimeout("pageRedirect()", 1);  
     }
-$(document).ready(function()
-{
- if setInterval(function() {
-alert("3 Sec more")
-}   
- });
